@@ -1,16 +1,33 @@
-# bloc_test
+ # 😊 Flutter Bloc Pattern test
 
-A new Flutter project.
+   <br/>
 
-## Getting Started
+ 
+![20240209_160640](https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/bdd0e495-36bf-4031-8a02-e38b8c0d56d7)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+  <br/>
+  
+  ## 💡 Stateful widget (SetState) Test screenshot
+  <img src ="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/e55da159-5979-4106-974e-685ec015337e" width="800"  >
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
+   
+<br/>
+
+ ## 📸 Stateful widget (SetState) Test screen record
+
+ <video src="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/c9be45a3-1aea-4c2a-a9e2-3b9a3db8a320" ></video>
+
+<br/>
+
+ # 🌸🌸  Thank You For Your Time 🌸🌸
+
+  
+
+   
+  
+
+ 
