@@ -13,7 +13,15 @@
   <br/>
   
   ## 💡 Stateful widget (SetState) Test screenshot
-  <img src ="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/e55da159-5979-4106-974e-685ec015337e" width="800"  >
+  
+   <div>
+    <img src ="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/453ef9e1-49c6-4219-b0fb-063062693953"  width="200"  >
+   <img src ="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/07a8641f-8344-4b21-886e-d5458a00e4e3" width="200" >
+   <img src ="https://github.com/Ahmedyehia122/Flutter_-Bloc_Test/assets/142153775/1758d26f-242a-4189-a152-21cbdd45cc00" width="200" >
+  
+
+ 
+ </div>
 
    
    
